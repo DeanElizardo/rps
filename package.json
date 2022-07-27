@@ -1,0 +1,27 @@
+{
+  "name": "rps",
+  "version": "1.0.0",
+  "description": "A command-line version of Rock-Paper-Scissors-Lizard-Spock with ASCII art",
+  "main": "rps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Del-on-git/rps.git"
+  },
+  "keywords": [
+    "game",
+    "cli",
+    "rock-paper-scissors"
+  ],
+  "author": "Dean Elizardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Del-on-git/rps/issues"
+  },
+  "homepage": "https://github.com/Del-on-git/rps#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
